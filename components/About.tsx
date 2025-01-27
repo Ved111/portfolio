@@ -18,7 +18,7 @@ export default function About() {
                         projects={3} />
                     <AboutCard
                         title="Team Leader"
-                        icon="/icons/phone.svg"
+                        icon="/icons/eye.svg"
                         description="I have successfully managed multiple teams, fostering collaboration, ensuring communication, and delivering high-quality results efficiently"
                         projects={4} />
                 </div>
