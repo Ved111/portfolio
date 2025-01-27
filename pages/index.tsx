@@ -4,6 +4,8 @@ import About from "../components/About";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 
+
+
 const Home: NextPage = () => {
   return (
     <>
@@ -12,7 +14,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content="Vedant Dubey" />
         <meta name="keywords" content="ReactJS, NextJS" />
-        <meta name="description" content="I am a talented Software Developer with a UI/UX design background." />
+        <meta name="description" content="I am a passionate Developer with a knack for creating impactful digital experiences." />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
