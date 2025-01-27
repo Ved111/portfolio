@@ -7,7 +7,7 @@ export default function Header() {
     return (
         <header>
             <NavBar />
-            <div className="header flex light-bg">
+            <div className="header flex light-bg pb-20">
                 <div>
                     <button>Software Developer</button>
                     <h1 className="white">Talk is cheap.</h1>
@@ -15,7 +15,7 @@ export default function Header() {
                     <p className="gray">I design and code beautiful simple things, and I love what I do.</p>
                     <a className="green" href="mailto:contact@Vedant Dubey.com">Let&#39;s chat!</a>
                 </div>
-                <Image src="/images/vedantdubey.png" width={280} height={513} className='ml-12' alt="Vedant Dubey"  /> 
+                <Image src="/images/vedantdubey.png" width={280} height={280} className='ml-12' alt="Vedant Dubey"  /> 
             </div>
         </header>
     )

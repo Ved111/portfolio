@@ -71,7 +71,7 @@ nav ul li {
 }
 .header {
   justify-content: space-between;
-  padding: 1.1rem 5rem 0rem 5rem;
+  padding: 1.1rem 9rem 10rem 5rem;
 }
 .header h1 {
   margin: auto;
@@ -95,6 +95,8 @@ nav ul li {
   text-decoration: underline;
   cursor: pointer;
 }
+
+
 
 /* About */
 .about-card {
